@@ -1,3 +1,24 @@
 name: Rob's Blog
 markdown: redcarpet
 pygments: true
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            'Rob Enns'
+tagline:          'Mostly Bacon'
+description:      ''
+url:              http://rpe.me
+
+author:
+  name:           'Rob Enns'
+  url:            https://twitter.com/barque
+
+paginate:         1
+
+# Custom vars
+version:          1.0.0
+
+github:
+  repo:           https://github.com/rpe/rpe.github.io
