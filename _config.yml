@@ -2,6 +2,9 @@ name: Rob's Blog
 markdown: redcarpet
 pygments: true
 
+redcarpet:
+  extensions: [smart]
+  
 # Permalinks
 permalink:        pretty
 
