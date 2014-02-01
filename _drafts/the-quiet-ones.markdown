@@ -17,7 +17,7 @@ on the case and resolve the issues as quickly as possible.
 
 That being said, what's wrong with this picture?
 
-After the presentation, my friend was chatting with the VP and asked him what the 
+After the presentation, my friend asked the VP what the 
 best selling feature of the product was. "It's the L2 functionality", the VP said
 (you guessed it, the feature that my friend helped create).
 
