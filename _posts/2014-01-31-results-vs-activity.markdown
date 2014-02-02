@@ -21,7 +21,7 @@ So what’s a result and what’s an activity? And what can you do to get more f
 
 If you’re an engineer, ask yourself if that next task gets you closer to your goal (working code) or if it is fulfilling some other need. If you are invited to a meeting---does that meeting need to happen? Can you avoid it with a quick hallway conversation? Can you delegate your manager to attend the meeting instead? Shed the activity tasks and focus on things that get you closer to results.
 
-As a manager, you have an immense impact on your team’s productivity by demonstrating what you value. Hint: you don’t do this by repeating the maxim; you do it with your actions. Before you ask someone to do something, ask yourself the results/activity question. Can you focus this person more quickly on delivering meaningful results or are you handing out more “fetch me a rock” activities? Is the result you’re asking for immediately actionable or are you going to put it on a pile for later?
+As a manager, you have an immense impact on your team’s productivity by demonstrating what you value. Hint: you don’t do this by repeating the maxim; you demonstrate it with your actions. Before you ask someone to do something, ask yourself the results/activity question. Can you focus this person more quickly on delivering meaningful results or are you handing out more “fetch me a rock” activities? Is the result you’re asking for immediately actionable or are you going to put it on a pile for later?
 
 The answers to these questions may be harder to get to than it seems at first blush. 
 As you gain responsibility your ability to improve or debilitate your organization is magnified immensely. Use your power wisely. Focus on results.
