@@ -15,6 +15,3 @@ Telling prospective employees (and yourself) that you're still a startup does a 
 To be clear, I'm not saying that all big companies will become process encrusted, change averse dinosaurs. In fact there are many contemporary examples of [large companies](http://www.businessweek.com/articles/2013-10-10/jeff-bezos-and-the-age-of-amazon-excerpt-from-the-everything-store-by-brad-stone) that [keep their teams agile and process to a minimum](http://blog.jasoncrawford.org/two-pizza-teams). But it should be clear that some things will change as your company grows. Face the truth and give yourself the chance to develop the best ways of working as you grow.
 
 If this message is hard to swallow, there is another way to stop the wishful thinking. Join a startup. I did.
-
-
-
