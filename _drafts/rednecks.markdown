@@ -14,7 +14,7 @@ If you frequently attend the same meetings as people that report to you, you mig
 
 If you mow your lawn and find a car, well... in that case, I suppose [you might be a redneck](http://www.jefffoxworthy.com/jokes).
 
-"But," you say, "I know the right way to get the task done, so I'm just helping my people out when I tell them how to do it." 
+"But," you say, "I know the right way to get the task done, so I'm helping my people out when I tell them how to do it." 
 Fair enough. But there are a couple of issues here. First, consider that you might not know the best way to get a particular task done---if you dictate the "how", then you'll never find out if there is a better way. And more importantly, if you dictate
 the how, you're removing growth opportunities for your people. Let them figure out how to do things, and if they make
 a few mistakes along the way, so be it. Ask for the "what" and not the "how", and you'll end up with a team capable
