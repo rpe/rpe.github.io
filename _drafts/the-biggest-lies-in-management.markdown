@@ -28,12 +28,12 @@ while driving some other agenda. Like any short hand, these aphorisms need
 to be understood deeply if the underlying concepts are to be useful as a
 management tool.
 
-Here are a few sayings that managers love to use, which can range from out and out
+Here are a few clichés that managers love to use, which can range from out and out
 lies (though possibly not conscious ones) to thin veneers papering over a 
-completely different behavior. In the next few posts I will take a look at 
-each of these in turn:
+completely different behavior. And of course, sometimes when people say these
+things they are actually true!
 
-> ["I value results, not activity."]({% post_url 2014-01-31-results-vs-activity %})
+> "I value results, not activity."
 >
 > "I'm not a micro-manager."
 >
@@ -41,16 +41,16 @@ each of these in turn:
 >
 > "Sure, we're a big company now, but we still operate like a startup."
 
-Of course, any or all of these can be true in a particular team and company.
-But it is harder than it looks. I've been lucky enough to have the opportunity 
-to screw up in each of these areas.
+In the next few posts I will take a look at each of these.
+First up, [Results vs. Activity]({% post_url 2014-01-31-results-vs-activity %}).
+
 
 ---
 
 <small>
 	
 1. Incorrectly attributed to [William Edwards Deming](http://en.wikipedia.org/wiki/W._Edwards_Deming).
-2. Collins, James C. and Porras, Jerry I. (2004) [Built to Last](http://amzn.com/0060516402).
-3. Vizzini, [The Princess Bride](http://www.imdb.com/title/tt0093779). This is not, strictly speaking, a management aphorism. But it seems like a good policy nonetheless.
+2. Collins, James C. and Porras, Jerry I. (2004) ["Built to Last"](http://amzn.com/0060516402).
+3. Vizzini, ["The Princess Bride"](http://www.imdb.com/title/tt0093779). This is not, strictly speaking, a management aphorism. Nonetheless, it seems like a good policy.
 
 </small>
