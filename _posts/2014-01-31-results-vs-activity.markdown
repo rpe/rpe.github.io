@@ -9,7 +9,7 @@ categories: management business
 >
 > Dr. Ray Stantz, "Ghostbusters"
 
-Value results, not activity. It’s been a business maxim ever since Zeus gave [Sisyphus](http://en.wikipedia.org/wiki/Sisyphus) his task.
+Value results, not activity. It’s been a business maxim ever since Zeus cursed [Sisyphus](http://en.wikipedia.org/wiki/Sisyphus).
 
 Here’s the problem. Nobody agrees on exactly what it means, and worse, *everyone* says they do it, but in practice few do.
 
