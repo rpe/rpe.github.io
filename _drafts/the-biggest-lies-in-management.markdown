@@ -30,7 +30,7 @@ management tool.
 
 Here are a few clichés that managers love to use, which can range from out and out
 lies (though possibly not conscious ones) to thin veneers papering over a 
-completely different behavior. And of course, sometimes when people say these
+completely different behavior. And sometimes when people say these
 things they are actually true!
 
 > "I value results, not activity."
