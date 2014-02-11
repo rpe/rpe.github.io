@@ -44,9 +44,7 @@ things they are actually true!
 In the next few posts I will take a closer look at each of these statements.
 First up, [Results vs. Activity]({% post_url 2014-01-31-results-vs-activity %}).
 
-
----
-
+<hr width="20%" />
 <small>
 	
 1. Incorrectly attributed to [William Edwards Deming](http://en.wikipedia.org/wiki/W._Edwards_Deming).

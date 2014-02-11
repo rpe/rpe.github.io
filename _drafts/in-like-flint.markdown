@@ -36,7 +36,7 @@ a confused puppy or child.
 The last time I saw Alex he was selling insurance door-to-door. 
 He stopped by my place and pitched me on some kind of insurance policy
 or annuity. I heard him out, and politely agreed to think about it.
-I haven't seen him since.
+I haven't heard from him since.
 
 Alex, if you're out there, I hope life is treating you well.
 I hope you're in like Flint.
