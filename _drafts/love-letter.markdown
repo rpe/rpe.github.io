@@ -51,14 +51,3 @@ Superior support will build some serious customer loyalty for Fujifilm.
 
 Some have said [Fuji is the new Leica](http://zackarias.com/for-photographers/gear-gadgets/fuji-x100s-review-a-camera-walks-into-a-bar/), and I'm hard pressed to disagree.
 
-
-but advanced autofocus eludes mirrorless
-5d3 for lacrosse
-to be fair, it's a $3600 camera
-to say nothing of a 1DX (don't have one, won't buy one)
-and other than action sports mirrorless is friggin awesome
-hope to see mirrorless systems catching up with autofocus soon
-
-because I use a Canon 5D Mark III for sports, and therefore don't 
-need the improved continuous focus (as great as the X-series is, it can't
-compete with the autofocus on high end DSLR's--yet).
