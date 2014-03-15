@@ -11,7 +11,7 @@ was at home in museums, on cafe tables, in churches. In silent mode this camera
 is so quiet you can scarcely hear the shutter; it is perfect for
 quiet spaces and street photography.
 
-<a href="http://www.flickr.com/photos/41695401@N00/9195850603/" title="DSCF0458.jpg by Rob Enns, on Flickr"><img src="http://farm6.staticflickr.com/5514/9195850603_e9bd321285_c.jpg" width="800" height="534" alt="DSCF0458.jpg"></a>
+<a href="http://www.flickr.com/photos/41695401@N00/9195850603/" title="DSCF0458.jpg by Rob Enns, on Flickr"><img src="http://farm6.staticflickr.com/5514/9195850603_5edc685b5d_c.jpg" width="800" height="534" alt="DSCF0458.jpg"></a>
 <small>Manarola</small><br />
 
 The X100S retro design really resonates.
