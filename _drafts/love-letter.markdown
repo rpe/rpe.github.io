@@ -51,5 +51,6 @@ The early X-T1 bodies had light leak issues; Fuji openly acknowledged the defect
 and offered free repairs within a few days.
 Superior support will build some serious customer loyalty for Fujifilm.
 
-Some have said [Fuji is the new Leica](http://zackarias.com/for-photographers/gear-gadgets/fuji-x100s-review-a-camera-walks-into-a-bar/), and I'm hard pressed to disagree.
+Some have said [Fuji is the new Leica](http://zackarias.com/for-photographers/gear-gadgets/fuji-x100s-review-a-camera-walks-into-a-bar/).
+After over a year with the X-series cameras, I'm hard pressed to disagree.
 
