@@ -42,7 +42,7 @@ well, like a camera. If you're comfortable with a shutter speed dial and an
 aperture ring, à la 35mm Rangefinders and SLRs, you'll love the Fujis.
 
 Another area where Fuji appears to be focusing is customer service. Their
-software upgrades add significant functionality to X-series bodies and lenses,
+software upgrades add significant functionality to the X-series bodies and lenses,
 in some cases long after the products have shipped. For example, in late 2013, Fuji updated 
 the X100 to add focus peaking and improve autofocus speed by 20%. This
 is remarkable considering the X100 had
