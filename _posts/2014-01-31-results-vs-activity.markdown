@@ -7,7 +7,7 @@ categories: management business
 
 > I've worked in the private sector. They expect results.
 >
-> Dr. Ray Stantz, "Ghostbusters"
+> Dr. Ray Stantz, <cite>Ghostbusters</cite>
 
 Value results, not activity. It’s been a business maxim ever since Zeus cursed [Sisyphus](http://en.wikipedia.org/wiki/Sisyphus).
 

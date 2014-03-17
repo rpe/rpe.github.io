@@ -6,7 +6,7 @@ categories: management business
 > You’ve had enough of their thoughts--have your own <br />
 > Then you wouldn't have to be such a clone
 >
-> [The Hives](http://www.thehivesbroadcastingservice.com), "Dead Quote Olympics"
+> [The Hives](http://www.thehivesbroadcastingservice.com), <cite>Dead Quote Olympics<cite>
 
 The corporate world is full of maxims, mantras, aphorisms, and clichés. 
 If you've been around for a while, you've heard more than a few of these. 
@@ -48,7 +48,7 @@ First up, [Results vs. Activity]({% post_url 2014-01-31-results-vs-activity %}).
 <small>
 	
 1. Incorrectly attributed to [William Edwards Deming](http://en.wikipedia.org/wiki/W._Edwards_Deming).
-2. Collins, James C. and Porras, Jerry I. (2004) ["Built to Last"](http://amzn.com/0060516402).
-3. Vizzini, ["The Princess Bride"](http://www.imdb.com/title/tt0093779). This is not, strictly speaking, a management aphorism. Nonetheless, it seems like a good policy.
+2. Collins, James C. and Porras, Jerry I. (2004) [<cite>Built to Last</cite>](http://amzn.com/0060516402).
+3. Vizzini, [<cite>The Princess Bride</cite>](http://www.imdb.com/title/tt0093779). This is not, strictly speaking, a management aphorism. Nonetheless, it seems like a good policy.
 
 </small>
