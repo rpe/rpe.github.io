@@ -40,8 +40,7 @@ in some cases long after the products have shipped. For example, in late 2013, F
 the X100 to add focus peaking and improve autofocus speed by 20%. This
 is remarkable considering the X100 had
 been discontinued (and replaced by the X100S) months before.
-The early X-T1 bodies had light leak issues; Fuji openly acknowledged the defect
-and offered free repairs within a few days.
+The early X-T1 bodies had light leak issues; within a few days, Fuji openly acknowledged the defect and offered free repairs.
 Superior support will build some serious customer loyalty for Fujifilm.
 
 What about Sony, Olympus, Panasonic, and the like? Frankly, they all make
