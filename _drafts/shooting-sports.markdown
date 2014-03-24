@@ -15,7 +15,7 @@ To be fair to mirrorless, I've seen [some reasonable sports shots](http://confes
 <a href="http://www.flickr.com/photos/41695401@N00/13236469254/" title="GL1C0438.jpg by Rob Enns, on Flickr"><img src="http://farm3.staticflickr.com/2848/13236469254_b745634825_c.jpg" width="800" height="284" alt="GL1C0438.jpg"></a>
 <small><small>Canon EOS 5D Mark III, EF70-200mm f/2.8L IS II USM, 140mm, ISO 200, f/2.8, 1/5000 sec</small></small><br />
 
-I want to see mirrorless close the gap with focus speed and tracking. Fuji and Olympus are moving quickly. The next few years in mirrorless will be fun to watch.
+I want to see mirrorless close the gap with focus speed and tracking. Fuji and Olympus are moving quickly. The next few years in mirrorless will be fun to watch, but for now I'm lugging the big Canon to the games.
 
 <hr width="20%" />
 
