@@ -3,8 +3,6 @@ layout: post
 title:  "Love Letter"
 categories: photography
 ---
-I'm in love with Fujifilm X-series cameras.
-
 It all started with the X100S. For two weeks in June, the [X100S](https://www.fujifilmusa.com/products/digital_cameras/x/fujifilm_x100s/) came to Italy 
 with my wife and me. It traveled, unobtrusively, from Liguria to Tuscany to Florence,
 was at home in museums, on cafe tables, in churches. In silent mode this camera
