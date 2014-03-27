@@ -3,7 +3,7 @@ layout: post
 title:  "Love Letter"
 categories: photography
 ---
-It all started with the X100S. For two weeks in June, the [X100S](https://www.fujifilmusa.com/products/digital_cameras/x/fujifilm_x100s/) came to Italy 
+It all started with the Fujifilm X100S. For two weeks in June, the [X100S](https://www.fujifilmusa.com/products/digital_cameras/x/fujifilm_x100s/) came to Italy 
 with my wife and me. It traveled, unobtrusively, from Liguria to Tuscany to Florence,
 was at home in museums, on cafe tables, in churches. In silent mode this camera
 is so quiet you can scarcely hear the shutter; it is perfect for
@@ -14,7 +14,7 @@ quiet spaces and street photography.
 
 The X100S retro design really resonates.
 During our Italy trip, multiple people asked me if I was shooting 
-film with an old rangefinder, which was kind of cool. 
+film with a rangefinder, which was kind of cool. 
 
 I was so impressed with the fixed-lens X100S that I purchased an [X-E2](https://www.fujifilmusa.com/products/digital_cameras/x/fujifilm_x_e2/) 
 and a few lenses. The X-E2 continues the rangefinder aesthetic of the X100S, 
