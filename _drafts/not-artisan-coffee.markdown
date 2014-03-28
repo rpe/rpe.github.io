@@ -15,7 +15,7 @@ setup I want. But over the last few years, it seems to me that coffee
 cultural fanatics have elevated this simple drink to such a level of arcana and 
 artisanal elitism that one might reasonably assume it is impossible to make
 a good cup at home without a month of nightly classes at the local
-community barista college.
+barista college.
 I want to dispel this myth.
 
 There are many elements to making a great cup of coffee,

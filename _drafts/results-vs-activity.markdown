@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Results vs. Activity"
-date:   2014-01-31 09:40:00
 categories: management business
 ---
 

@@ -42,7 +42,7 @@ things they are actually true!
 > "Sure, we're a big company now, but we still operate like a startup."
 
 In the next few posts I will take a closer look at each of these statements.
-First up, [Results vs. Activity]({% post_url 2014-01-31-results-vs-activity %}).
+First up, Results vs. Activity.
 
 <hr width="20%" />
 <small>
