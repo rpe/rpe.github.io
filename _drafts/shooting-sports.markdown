@@ -3,7 +3,7 @@ layout: post
 title:  "Shooting Sports"
 categories: photography
 ---
-As much as [I love the new mirrorless cameras](http://rpe.me), there's one use case where they come up lacking: sports. The autofocus systems in cameras like the Canon 5D Mark III, 7D, and 1D series make a huge difference to getting quality images in action sports like lacrosse and soccer.
+As much as [I love the new mirrorless cameras](http://rpe.me/photography/2014/03/27/love-letter/), there's one use case where they come up lacking: sports. The autofocus systems in cameras like the Canon 5D Mark III, 7D, and 1D series make a huge difference to getting quality images in action sports like lacrosse and soccer.
 
 <a href="http://www.flickr.com/photos/41695401@N00/13252835855/" title="GL1C0187.jpg by Rob Enns, on Flickr"><img src="http://farm4.staticflickr.com/3737/13252835855_1469b32794_c.jpg" width="800" height="534" alt="GL1C0187.jpg"></a>
 <small><small>Canon EOS 5D Mark III, EF70-200mm f/2.8L IS II USM, 200mm, ISO 200, f/2.8, 1/6400 sec</small></small><br />
