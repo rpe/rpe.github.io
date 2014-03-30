@@ -54,5 +54,5 @@ So if you're interested in making great coffee, but uninterested in the
 Internet coffee artisan drug culture, here is my advice. [Buy a Chemex brewer](http://www.amazon.com/gp/product/B0000YWF5E/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0000YWF5E&linkCode=as2&tag=myhomepag01ba-20).
 [Subscribe to Tonx](https://tonx.org/e05d4627). 
 You'll get fresh beans in the mail every couple of weeks
-and be making great coffee every day.
+and make great coffee every day.
 
