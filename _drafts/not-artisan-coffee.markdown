@@ -10,6 +10,8 @@ has been rocking 4-6 shots a day for years. I made [a video of the La Spaziale](
 kicks one morning and it now has over 11,000 views.
 Weird.
 
+<a href="https://www.flickr.com/photos/41695401@N00/13489554694" title="GL1C1202.jpg by Rob Enns, on Flickr"><img src="https://farm8.staticflickr.com/7006/13489554694_c9c10cf75b_c.jpg" width="800" height="534" alt="GL1C1202.jpg"></a>
+
 I love coffee and I'm not averse to a remodel to get the brewing
 setup I want. But over the last few years, it seems to me that coffee
 cultural fanatics have elevated this simple drink to such a level of arcana and 
@@ -41,8 +43,6 @@ There are lots of [tutorials on the Internet](https://duckduckgo.com/?q=how+to+m
 if you'd like some pointers on the Chemex, but it's very straightforward, artisans.
 
 <a href="https://www.flickr.com/photos/41695401@N00/13405764133" title="DSCF2914.jpg by Rob Enns, on Flickr"><img src="https://farm3.staticflickr.com/2843/13405764133_1c571b0b8d_c.jpg" width="800" height="534" alt="DSCF2914.jpg"></a>
-
-<br />
 
 There are other elements to making great coffee. Water temperature,
 water chemistry, roast level,
