@@ -77,7 +77,9 @@ It's utility cord. Clothes lines, bear bags, bad guy restraint, and so on. I alw
 
 **Carabiners**.
 
-**Food**. [S.O.S. Rations Emergency Food Bar](http://www.amazon.com/gp/product/B004MF41LI/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B004MF41LI&linkCode=as2&tag=myhomepag01ba-20). When they get close to the 5-year expiration date, I'll bust the rations out for a family survival taste test. I wonder how they work in the sous-vide machine?
+**Another Knife**. [Swiss Army Mountaineer](http://www.amazon.com/gp/product/B0007QCOU6/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0007QCOU6&linkCode=as2&tag=myhomepag01ba-20). Did I mention knives are a good thing? The mountaineer has two blades, scissors, a toothpick, tweezers, a corkscrew, a bottle opener, a can opener, and more. It's the best balance between utility and weight you'll find in a Swiss Army knife. 
+
+**Food**. [S.O.S. Rations Emergency Food Bar](http://www.amazon.com/gp/product/B004MF41LI/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B004MF41LI&linkCode=as2&tag=myhomepag01ba-20). When they get close to the 5-year expiration date, I'll bust out the rations for a family survival taste test. I wonder how they work in the sous-vide machine?
 
 **Note Pads**. I use [Field Notes](http://www.fieldnotesbrand.com) notebooks. Their regular notebooks are made of normal paper. But the [expedition edition](http://fieldnotesbrand.com/colors/expedition/) uses some sort of magical indestructible synthetic paper. Perfect for the aftertimes.
 
