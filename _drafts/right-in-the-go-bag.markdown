@@ -33,9 +33,10 @@ if zombies roam the earth you're going to need a go bag.
 
 4. GAS. You're an OCD gear nerd and you need a reason to buy some cool stuff.
 
-For the sake of argument, let's assume I used reason 4. But really, it
-doesn't matter. Once you have a go bag in your house, you're ready for
-all of the above.
+For the sake of argument, let's assume I used reason 1. 
+Not reason 4 (why do you think I used reason 4?). 
+Anyway, it doesn't matter. 
+Once you have a go bag in your house, you're ready for all of the above.
 
 Here's what all the cool kids keep in their go bags:
 
