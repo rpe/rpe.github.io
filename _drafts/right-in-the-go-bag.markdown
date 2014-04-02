@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Right in the Go Bag"
-categories: general
+categories: stuff
 ---
 > Me: Ernest Shackleton didn't have a go bag. <br />
 > Gord: Ernest Shackleton had nothing BUT a go bag.
