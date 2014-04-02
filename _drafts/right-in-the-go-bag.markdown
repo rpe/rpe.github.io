@@ -6,7 +6,7 @@ categories: general
 > Me: Ernest Shackleton didn't have a go bag. <br />
 > Gord: Ernest Shackleton had nothing BUT a go bag.
 
-One doesn't have to travel very far into the survivalist nut-job neighborhood
+One doesn't have to venture very far into the survivalist nut-job neighborhood
 of the Internet to find the go bag section.
 
 A "go bag" is a pre-packed backpack full of survival essentials 
@@ -18,7 +18,7 @@ keep you alive when you abandon your residence and strike out for the
 plague-free zone.
 
 There are a number of reasons I can think of to invest the time and
-expense to compose a go bag.
+expense to build a go bag.
 
 1. Natural Disaster. Prepare for an earthquake, hurricane, tornado, tsunami, or 
 whatever local flavor of disaster your geography may have in store for you.
@@ -29,16 +29,19 @@ nuclear holocaust, pandemic, or civil war forces you to leave your home.
 3. Zombie Apocalypse. There are various flavors of the zombie apocalypse,
 most of which originate with an escaped weaponized virus. But don't discount
 the alien zombie invasion or the supernatural. No matter what the cause,
-if zombies roam the earth you're going to need a go bag.
+if zombies roam the earth, you're going to need a go bag.
 
 4. GAS. You're an OCD gear nerd and you need a reason to buy some cool stuff.
 
-For the sake of argument, let's assume I used reason 1. 
-Not reason 4 (why do you think I used reason 4?). 
-Anyway, it doesn't matter. 
+Early this year, I put a go bag together.
+For the sake of argument, let's assume I was motivated by reason 1. 
+Not reason 4.
+Why do you think I'm reason 4?
+
+Turns out it doesn't matter. 
 Once you have a go bag in your house, you're ready for all of the above.
 
-Here's what all the cool kids keep in their go bags:
+Here's what is in my go bag:
 
 **Backpack**. [5.11 Tactical Rush 12](http://www.amazon.com/gp/product/B003HHV0QQ/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B003HHV0QQ&linkCode=as2&tag=myhomepag01ba-20). Don't trust
 your life to that see-through freebie daypack you got at VMWorld.
@@ -78,11 +81,17 @@ It's utility cord. Clothes lines, bear bags, bad guy restraint, and so on. I alw
 
 **Carabiners**.
 
-**Another Knife**. [Swiss Army Mountaineer](http://www.amazon.com/gp/product/B0007QCOU6/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0007QCOU6&linkCode=as2&tag=myhomepag01ba-20). Did I mention knives are a good thing? The mountaineer has two blades, scissors, a toothpick, tweezers, a corkscrew, a bottle opener, a can opener, and more. It's the best balance between utility and weight you'll find in a Swiss Army knife. 
+**Another Knife**. [Victorinox Swiss Army Mountaineer](http://www.amazon.com/gp/product/B0007QCOU6/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0007QCOU6&linkCode=as2&tag=myhomepag01ba-20). 
+Did I mention knives are a good thing? If you don't have a mountaineer
+in your pocket every day, you definitely want one in your go bag. 
+The mountaineer has two blades, scissors, a toothpick, tweezers, 
+a corkscrew, a bottle opener, a can opener, and more. 
+It's the best balance between utility and size/weight and it's my 
+favorite Swiss Army knife. 
 
-**Food**. [S.O.S. Rations Emergency Food Bar](http://www.amazon.com/gp/product/B004MF41LI/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B004MF41LI&linkCode=as2&tag=myhomepag01ba-20). When they get close to the 5-year expiration date, I'll bust out the rations for a family survival taste test. I wonder how they work in the sous-vide machine?
+**Food**. [S.O.S. Rations Emergency Food Bar](http://www.amazon.com/gp/product/B004MF41LI/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B004MF41LI&linkCode=as2&tag=myhomepag01ba-20). When they get close to the 5-year expiration date, I'll bust out these rations for a family survival taste test. I wonder how they work in the sous-vide machine? A few energy bars such as [Clif Bars](http://www.amazon.com/gp/product/B004X1SSDS/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B004X1SSDS&linkCode=as2&tag=myhomepag01ba-20) will add variety to the high-calorie rations.
 
-**Note Pads**. I use [Field Notes](http://www.fieldnotesbrand.com) notebooks. Their regular notebooks are made of normal paper. But the [expedition edition](http://fieldnotesbrand.com/colors/expedition/) uses some sort of magical indestructible synthetic paper. Perfect for the aftertimes.
+**Note Pad**. I like [Field Notes](http://www.fieldnotesbrand.com) notebooks. Their regular notebooks are made of normal paper. But the [expedition edition](http://fieldnotesbrand.com/colors/expedition/) uses some sort of magical indestructible synthetic paper. Perfect for the aftertimes.
 
 **Pens**. The [Zebra Sarasa 1.0mm Gel](http://www.amazon.com/gp/product/B0006HXC3E/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0006HXC3E&linkCode=as2&tag=myhomepag01ba-20) is a fine choice. I always have some in my office drawer. If you're worried about upside down conditions, pack a [space pen](http://www.amazon.com/gp/product/B000WGD13U/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B000WGD13U&linkCode=as2&tag=myhomepag01ba-20) instead.
 
@@ -93,8 +102,9 @@ I keep the Field Notes books in an Aloksak. Aloksak bags are
 super-duper zip lock bags. They are waterproof and reusable. They won't
 last forever, but who does once the zombies come?
 
-**Compass and Maps**. If you need a compass, you're probably in the deep, deep mud. But it weighs nothing and if you need one, you're screwed without one (in other words, don't rely on 
+**Compass and Map**. If you need a compass, you're probably in the deep, deep mud. But it weighs nothing and if you need one, you're screwed without one (in other words, don't rely on 
 the compass in your smart phone). I carry an old [Suunto](http://www.amazon.com/gp/product/B000YU5RF4/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B000YU5RF4&linkCode=as2&tag=myhomepag01ba-20).
+A paper map of the local area may also come in handy.
 
 **Survival Blanket**. [Adventure Medical Kits Sol Survival Blanket](http://www.amazon.com/gp/product/B004M7U1H4/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B004M7U1H4&linkCode=as2&tag=myhomepag01ba-20).
 It might get loud. Wait. Cold. Cold. It might get cold. It might also get loud.
@@ -107,3 +117,4 @@ Because every post-apocalyptic movie I've seen has a romance.
 
 **Shoes**. If your bag is intended to get you home from wherever your vehicle may be stranded, keep an extra pair of sturdy shoes/boots in your bag. Those $600 [Santoni's](http://santonishoes.com) look great but may not serve you well hiking
 40 miles home down a broken freeway.
+
