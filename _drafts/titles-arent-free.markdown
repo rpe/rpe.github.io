@@ -1,13 +1,16 @@
 ---
 layout: post
 title:  "Titles Aren't Free"
-categories: engineering
+categories: management
 ---
 > Titles are important because they help establish credibility with people who don’t know you. They help shape an organization and give form to managerial and technical growth paths.
 
 > Titles are not important because words are meaningless. You’re capable at your job or you’re not, no matter what your business card says.
 
-Maybe you subscribe to one of the above views. I’m not here to persuade you to take either position, but I’ll give you some true facts from the hiring trenches.
+Maybe you subscribe to one of the above views. 
+Maybe the truth is somewhere in the middle.
+I won't attempt to persuade you to take either position, 
+but instead I’ll offer some true facts from the hiring trenches.
 
 Every week, I meet people who are concerned about what title 
 they’ll get if they’re hired by my company.
@@ -23,8 +26,12 @@ There are some nice things about being a director at a big public company.
 
 There are also some downsides.
 
-1. You’re officially middle management. Guess who gets whacked first when the hammer comes down?
-2. Once you’re out on the street, finding another director role is much harder than finding a manager role. It took years of sweat to get the title, but guess what? Directors on the job market are a dime a dozen.
+1. A director is officially middle management. 
+Guess who gets whacked first when the hammer comes down?
+2. Once you’re out on the street, finding another director role 
+is much harder than finding a manager role. It takes years of 
+sweat to get the title, but directors on the job market are 
+a dime a dozen.
 3. You run the danger of becoming a lifer at your company.
 
 In my role as a hiring manager at a startup, I’ve interviewed many 
