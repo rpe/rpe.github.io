@@ -31,32 +31,35 @@ most of which originate with an escaped weaponized virus. But don't discount
 the alien zombie invasion or the supernatural. No matter what the cause,
 if zombies roam the earth, you're going to need a go bag.
 
-4. GAS. You're an OCD gear nerd and you need a reason to buy some cool stuff.
+4. GAS (Gear Acquisition Syndrome). You're an OCD gear nerd and you need a reason to buy some cool stuff.
+
+<a href="https://www.flickr.com/photos/41695401@N00/13612934313" title="5.11 Rush 12 by Rob Enns, on Flickr"><img src="https://farm4.staticflickr.com/3722/13612934313_d21323d3f6_c.jpg" width="800" height="534" alt="5.11 Rush 12"></a>
 
 Early this year, I put a go bag together.
 For the sake of argument, let's assume I was motivated by reason 1. 
 Not reason 4.
-Why do you think I'm reason 4?
+Couldn't possibly be reason 4.
 
 Turns out it doesn't matter. 
 Once you have a go bag in your house, you're ready for all of the above.
 
 Here's what is in my go bag:
 
-**Backpack**. [5.11 Tactical Rush 12](http://www.amazon.com/gp/product/B003HHV0QQ/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B003HHV0QQ&linkCode=as2&tag=myhomepag01ba-20). Don't trust
+**Backpack**. [5.11 Rush 12](http://www.amazon.com/gp/product/B003HHV0QQ/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B003HHV0QQ&linkCode=as2&tag=myhomepag01ba-20). Don't trust
 your life to that see-through freebie daypack you got at VMWorld.
 The 5.11 Rush is super sturdy, reasonably priced, and the 12L version is a perfect 
-for get-home or a light go bag.
+for get-home or a small go bag.
 
 **Knife**. [Cold Steel Recon 1](http://www.amazon.com/gp/product/B00322HR2C/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00322HR2C&linkCode=as2&tag=myhomepag01ba-20). This knife scares the shit out of me. I'm afraid to open it, and when it's open I'm afraid to touch it. In other words, it's perfect.
 
 **Multitool**. [Leatherman New Wave](http://www.amazon.com/gp/product/B0002H49BC/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0002H49BC&linkCode=as2&tag=myhomepag01ba-20).
 The New Wave is my favorite Leatherman tool. Either that or the [Leatherman Skeletool](http://www.amazon.com/gp/product/B000XU9NXW/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B000XU9NXW&linkCode=as2&tag=myhomepag01ba-20).
-There are lots of good multitools out there. Be sure you get a cutting edge, a saw, pliers, screw driver bits. And a bottle opener.
+There are lots of good multitools out there. Be sure you get a cutting edge, pliers, screw driver bits. And a bottle opener.
 
-**Flashlight**. [KLARUS XT11](http://www.amazon.com/gp/product/B00EE193YK/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00EE193YK&linkCode=as2&tag=myhomepag01ba-20)
+**Flashlight**. [KLARUS XT11](http://www.amazon.com/gp/product/B00EE193YK/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00EE193YK&linkCode=as2&tag=myhomepag01ba-20).
+The XT11 a super-bright LED light, that will run for almost 300 hours on its low setting. It's waterproof too.
 
-**Solar Charger/Light**. I pack a [WakaWaka  Power](http://www.amazon.com/gp/product/B00CAVM8DE/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00CAVM8DE&linkCode=as2&tag=myhomepag01ba-20) solar charger and light. The WakaWaka will charge your phone, and is also a flashlight and reading light. In all but the worst outcomes you'll welcome the ability to charge your phone. This device will charge your phone in 2 hours, and give you 10 hours of light.
+**Solar Charger/Light**. [WakaWaka  Power](http://www.amazon.com/gp/product/B00CAVM8DE/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00CAVM8DE&linkCode=as2&tag=myhomepag01ba-20) solar charger and light. The WakaWaka will charge your phone, and is also a flashlight and reading light. In all but the worst outcomes you'll welcome the ability to charge your phone. This device will charge your phone in 2 hours, and give you 10 hours of light.
 
 **Another Knife**. [Spyderco Sage](http://www.amazon.com/gp/product/B0013AW8Y2/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0013AW8Y2&linkCode=as2&tag=myhomepag01ba-20).
 One thing I don't want to run out of in the afterworld? Knives. And ammo.
@@ -77,9 +80,8 @@ See above. For starting a fire in less than urgent conditions.
 **Water Bottle**. I pack two containers: a [Nalgene Titan](http://www.amazon.com/gp/product/B002PLU912/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B002PLU912&linkCode=as2&tag=myhomepag01ba-20) (a rigid 1L bottle) and a [Platypus Platy](http://www.amazon.com/gp/product/B000J2KEGY/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B000J2KEGY&linkCode=as2&tag=myhomepag01ba-20) (a collapsable 2L container).
 
 **Utility Cord**. [Bluewater 3mm Niteline](http://www.amazon.com/gp/product/B0038R4QQQ/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0038R4QQQ&linkCode=as2&tag=myhomepag01ba-20).
-It's utility cord. Clothes lines, bear bags, bad guy restraint, and so on. I always feel better having enough rope. Niteline reflects light for better visibility.
-
-**Carabiners**.
+Clothes lines, bear bags, bad guy restraint, and so on. I always feel better having enough rope. 
+Niteline reflects light for better visibility.
 
 **Another Knife**. [Victorinox Swiss Army Mountaineer](http://www.amazon.com/gp/product/B0007QCOU6/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0007QCOU6&linkCode=as2&tag=myhomepag01ba-20). 
 Did I mention knives are a good thing? If you don't have a mountaineer
@@ -93,7 +95,7 @@ favorite Swiss Army knife.
 
 **Note Pad**. I like [Field Notes](http://www.fieldnotesbrand.com) notebooks. Their regular notebooks are made of normal paper. But the [expedition edition](http://fieldnotesbrand.com/colors/expedition/) uses some sort of magical indestructible synthetic paper. Perfect for the aftertimes.
 
-**Pens**. The [Zebra Sarasa 1.0mm Gel](http://www.amazon.com/gp/product/B0006HXC3E/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0006HXC3E&linkCode=as2&tag=myhomepag01ba-20) is a fine choice. I always have some in my office drawer. If you're worried about upside down conditions, pack a [space pen](http://www.amazon.com/gp/product/B000WGD13U/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B000WGD13U&linkCode=as2&tag=myhomepag01ba-20) instead.
+**Pen**. The [Zebra Sarasa 1.0mm Gel](http://www.amazon.com/gp/product/B0006HXC3E/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0006HXC3E&linkCode=as2&tag=myhomepag01ba-20) is a fine choice. If you're worried about upside down conditions, pack a [space pen](http://www.amazon.com/gp/product/B000WGD13U/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B000WGD13U&linkCode=as2&tag=myhomepag01ba-20) instead.
 
 **Pencils**. I really like the [Palomino California Cedar Pencils](http://www.amazon.com/gp/product/B00G064FF4/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00G064FF4&linkCode=as2&tag=myhomepag01ba-20). They're made in the USA and they smell awesome. That will come in handy as your hair falls out due to radiation poisoning.
 
@@ -110,11 +112,14 @@ A paper map of the local area may also come in handy.
 It might get loud. Wait. Cold. Cold. It might get cold. It might also get loud.
 But the blanket is for cold.
 
-**First-Aid Kit**. [Family First Aid](http://www.amazon.com/gp/product/B0079ODGHO/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0079ODGHO&linkCode=as2&tag=myhomepag01ba-20)
+**First-Aid Kit**. [Family First Aid](http://www.amazon.com/gp/product/B0079ODGHO/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0079ODGHO&linkCode=as2&tag=myhomepag01ba-20).
+It is basic common sense to have a first-aid kit in your bag. This kit includes a pair of scissors and and some tweezers. Because splinters suck.
 
 **Breath Mints**. [Altoid Smalls](http://www.amazon.com/gp/product/B001QWEL1U/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B001QWEL1U&linkCode=as2&tag=myhomepag01ba-20).
 Because every post-apocalyptic movie I've seen has a romance.
 
-**Shoes**. If your bag is intended to get you home from wherever your vehicle may be stranded, keep an extra pair of sturdy shoes/boots in your bag. Those $600 [Santoni's](http://santonishoes.com) look great but may not serve you well hiking
+**Gloves**. You never know what you're going to need to do with your hands, but you absolutely can't injure them in a survival situation. I pack a set of work gloves.
+
+**Shoes**. If your bag is intended to get you home from wherever your vehicle may be stranded, pack an extra pair of sturdy shoes/boots. Those $600 [Santoni's](http://santonishoes.com) look great but may not serve you well hiking
 40 miles home down a broken freeway.
 
