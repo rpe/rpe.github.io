@@ -33,20 +33,20 @@ if zombies roam the earth, you're going to need a go bag.
 
 4. GAS (Gear Acquisition Syndrome). You're an OCD gear nerd and you need a reason to buy some cool stuff.
 
-<a href="https://www.flickr.com/photos/41695401@N00/13612934313" title="5.11 Rush 12 by Rob Enns, on Flickr"><img src="https://farm4.staticflickr.com/3722/13612934313_d21323d3f6_c.jpg" width="800" height="534" alt="5.11 Rush 12"></a>
-
-Early this year, I put a go bag together.
+I put a go bag together earlier this year.
 For the sake of argument, let's assume I was motivated by reason 1. 
 Not reason 4.
 Couldn't possibly be reason 4.
 
-Turns out it doesn't matter. 
-Once you have a go bag in your house, you're ready for all of the above.
+<a href="https://www.flickr.com/photos/41695401@N00/13612934313" title="5.11 Rush 12 by Rob Enns, on Flickr"><img src="https://farm4.staticflickr.com/3722/13612934313_d21323d3f6_c.jpg" width="800" height="534" alt="5.11 Rush 12"></a>
 
-Here's what is in my go bag:
+Turns out it doesn't matter. 
+Once you build it, you're ready for all of the above.
+
+Here's what is in my bag:
 
 **Backpack**. [5.11 Rush 12](http://www.amazon.com/gp/product/B003HHV0QQ/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B003HHV0QQ&linkCode=as2&tag=myhomepag01ba-20). Don't trust
-your life to that see-through freebie daypack you got at VMWorld.
+your life to that feeble freebie you got at Cisco Live.
 The 5.11 Rush is super sturdy, reasonably priced, and the 12L version is a perfect 
 for get-home or a small go bag.
 
@@ -118,8 +118,9 @@ It is basic common sense to have a first-aid kit in your bag. This kit includes 
 **Breath Mints**. [Altoid Smalls](http://www.amazon.com/gp/product/B001QWEL1U/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B001QWEL1U&linkCode=as2&tag=myhomepag01ba-20).
 Because every post-apocalyptic movie I've seen has a romance.
 
-**Gloves**. You never know what you're going to need to do with your hands, but you absolutely can't injure them in a survival situation. I pack a set of work gloves.
+**Gloves**. You absolutely can't injure your hands in a survival situation. I pack a set of [CLC work gloves](http://www.amazon.com/gp/product/B0002YPZLI/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0002YPZLI&linkCode=as2&tag=myhomepag01ba-20).
 
 **Shoes**. If your bag is intended to get you home from wherever your vehicle may be stranded, pack an extra pair of sturdy shoes/boots. Those $600 [Santoni's](http://santonishoes.com) look great but may not serve you well hiking
 40 miles home down a broken freeway.
 
+If you live in an area where very cold weather is a possibility, pack enough gear to get you through some outdoor travel in cold weather. Heavy gloves, a hat, and warm socks are the minimum.
