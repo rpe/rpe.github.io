@@ -56,3 +56,4 @@ Internet coffee artisan drug culture, here is my advice. [Buy a Chemex brewer](h
 You'll get fresh beans in the mail every couple of weeks
 and make great coffee every day.
 
+Update (4/7/14): [Tonx has been bought by Blue Bottle Coffee](http://sprudge.com/blue-bottle-coffee-buys-handsome-and-tonx.html) of Oakland. Congrats to Tonx. I'm looking forward to seeing what comes next.
