@@ -31,7 +31,8 @@ most of which originate with an escaped weaponized virus. But don't discount
 the alien zombie invasion or the supernatural. No matter what the cause,
 if zombies roam the earth, you're going to need a go bag.
 
-4. GAS (Gear Acquisition Syndrome). You're an OCD gear nerd and you need a reason to buy some cool stuff.
+4. GAS (Gear Acquisition Syndrome). You're an OCD gear nerd and you need 
+a reason to buy some cool stuff.
 
 I put a go bag together earlier this year.
 For the sake of argument, let's assume I was motivated by reason 1. 
@@ -57,7 +58,7 @@ The New Wave is my favorite Leatherman tool. Either that or the [Leatherman Skel
 There are lots of good multitools out there. Be sure you get a cutting edge, pliers, screw driver bits. And a bottle opener.
 
 **Flashlight**. [KLARUS XT11](http://www.amazon.com/gp/product/B00EE193YK/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00EE193YK&linkCode=as2&tag=myhomepag01ba-20).
-The XT11 a super-bright LED light, that will run for almost 300 hours on its low setting. It's waterproof too.
+The XT11 a super-bright LED light, that will run for almost 300 hours on its low setting. It's waterproof too. Pack some [extra batteries](http://www.amazon.com/gp/product/B003EOMVX8/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B003EOMVX8&linkCode=as2&tag=myhomepag01ba-20) for the flashlight.
 
 **Solar Charger/Light**. [WakaWaka  Power](http://www.amazon.com/gp/product/B00CAVM8DE/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00CAVM8DE&linkCode=as2&tag=myhomepag01ba-20) solar charger and light. The WakaWaka will charge your phone, and is also a flashlight and reading light. In all but the worst outcomes you'll welcome the ability to charge your phone. This device will charge your phone in 2 hours, and give you 10 hours of light.
 
@@ -123,4 +124,13 @@ Because every post-apocalyptic movie I've seen has a romance.
 **Shoes**. If your bag is intended to get you home from wherever your vehicle may be stranded, pack an extra pair of sturdy shoes/boots. Those $600 [Santoni's](http://santonishoes.com) look great but may not serve you well hiking
 40 miles home down a broken freeway.
 
+**Rain Gear**. [Woodland Camouflage Rip-stop Poncho](http://www.amazon.com/gp/product/B000AA2XNC/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B000AA2XNC&linkCode=as2&tag=myhomepag01ba-20).
+A rip-stop nylon poncho is very versatile. Together with utility cord 
+it can be used to build a makeshift shelter. It will work as a ground
+cloth or picnic blanket. And it will keep you and your gear dry(ish) in a storm.
+
 If you live in an area where very cold weather is a possibility, pack enough gear to get you through some outdoor travel in cold weather. Heavy gloves, a hat, and warm socks are the minimum.
+
+Hopefully all this preparedness (ie. buying stuff) ends up nothing more than a 
+bunch of gear carefully packed in my trunk for the next 20 years. 
+If I need it, I'll be very glad its there.
