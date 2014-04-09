@@ -81,7 +81,8 @@ See above. For starting a fire in less than urgent conditions.
 **Water Bottle**. I pack two containers: a [Nalgene Titan](http://www.amazon.com/gp/product/B002PLU912/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B002PLU912&linkCode=as2&tag=myhomepag01ba-20) (a rigid 1L bottle) and a [Platypus Platy](http://www.amazon.com/gp/product/B000J2KEGY/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B000J2KEGY&linkCode=as2&tag=myhomepag01ba-20) (a collapsable 2L container).
 
 **Utility Cord**. [Bluewater 3mm Niteline](http://www.amazon.com/gp/product/B0038R4QQQ/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0038R4QQQ&linkCode=as2&tag=myhomepag01ba-20).
-Clothes lines, bear bags, bad guy restraint, and so on. I always feel better having enough rope. 
+Clothes lines, bear bags, zombie restraint, and so on. 
+I always feel better having enough rope. 
 Niteline reflects light for better visibility.
 
 **Another Knife**. [Victorinox Swiss Army Mountaineer](http://www.amazon.com/gp/product/B0007QCOU6/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0007QCOU6&linkCode=as2&tag=myhomepag01ba-20). 
