@@ -127,7 +127,7 @@ Because every post-apocalyptic movie I've seen has a romance.
 
 **Rain Gear**. [Woodland Camouflage Rip-stop Poncho](http://www.amazon.com/gp/product/B000AA2XNC/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B000AA2XNC&linkCode=as2&tag=myhomepag01ba-20).
 A rip-stop nylon poncho is very versatile. Together with utility cord 
-it can be used to build a makeshift shelter. It will work as a ground
+it can be used to build a shelter. It will work as a ground
 cloth or picnic blanket. And it will keep you and your gear dry(ish) in a storm.
 
 If you live in an area where very cold weather is a possibility, pack enough gear to get you through some outdoor travel in cold weather. Heavy gloves, a hat, and warm socks are the minimum.
