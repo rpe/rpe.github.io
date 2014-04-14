@@ -142,6 +142,6 @@ One more thing: pack some tampons. Besides the obvious, tampons are useful as ba
 
 Hopefully all this preparedness (ie. buying stuff) ends up nothing more than a 
 bunch of gear carefully packed in my trunk for the next 20 years. 
-If I need it, I'll be very glad its there.
+But if the zombies come, I'm ready.
 
 I pulled together [a list of these items](http://www.amazon.com/The-Go-Bag/lm/R15S5UTPB5H8S1/ref=cm_lm_byauthor_title_full) on Amazon.
