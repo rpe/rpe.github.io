@@ -136,7 +136,7 @@ A rip-stop nylon poncho is very versatile. Together with utility cord
 it can be used to build a shelter. It will work as a ground
 cloth or picnic blanket. And it will keep you and your gear dry(ish) in a storm.
 
-If you live in an area where very cold weather is a possibility, pack enough gear to get you through some outdoor travel in cold weather. Heavy gloves, a hat, and warm socks are the minimum.
+If you live in an area where very cold weather is a possibility, pack enough gear to get you through some outdoor travel. Heavy gloves, a hat, and warm socks are the minimum.
 
 One more thing: pack some tampons. Besides the obvious, tampons are useful as bandages and for straining chunky bits out of your water supply.
 
