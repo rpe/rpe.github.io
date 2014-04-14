@@ -144,4 +144,4 @@ Hopefully all this preparedness (ie. buying stuff) ends up nothing more than a
 bunch of gear carefully packed in my trunk for the next 20 years. 
 But when the zombies come, I'm ready.
 
-I pulled together [a list of these items](http://www.amazon.com/The-Go-Bag/lm/R15S5UTPB5H8S1/ref=cm_lm_byauthor_title_full) on Amazon.
+Here is [a list of go bag contents](http://www.amazon.com/The-Go-Bag/lm/R15S5UTPB5H8S1/ref=cm_lm_byauthor_title_full) on Amazon.
