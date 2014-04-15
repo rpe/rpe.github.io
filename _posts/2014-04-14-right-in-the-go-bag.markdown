@@ -31,7 +31,7 @@ most of which originate with an escaped weaponized virus. But don't discount
 the alien zombie invasion or the supernatural. No matter what the cause,
 if zombies roam the earth, you're going to need a go bag.
 
-4. GAS (Gear Acquisition Syndrome). You're an OCD gear nerd and you need 
+4. GAS (Gear Acquisition Syndrome). You need 
 a reason to buy some cool stuff.
 
 I put a go bag together earlier this year.
