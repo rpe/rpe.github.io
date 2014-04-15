@@ -13,7 +13,7 @@ A "go bag" is a pre-packed backpack full of survival essentials
 that one might need at a moment's notice. The more nuanced survivalist will
 differentiate between the "get home bag", which is intended to get you
 from your automobile or place of work back home in case of emergency, 
-and the "bug-out bag", a larger set of backpackable gear that will
+and the "bug out bag", a larger set of backpackable gear that will
 keep you alive when you abandon your residence and strike out for the 
 plague-free zone.
 
