@@ -3,12 +3,12 @@ layout: post
 title:  "Titles Aren't Free"
 categories: management
 ---
-> Titles are important because they help establish credibility with people who don’t know you. They help shape an organization and give form to managerial and technical growth paths.
+> Titles are important because they help establish credibility with people who don’t know you. They help shape an organization and give form to management and technical growth paths.
 
 > Titles are not important because words are meaningless. You’re capable at your job or you’re not, no matter what your business card says.
 
 Maybe you subscribe to one of the above views. 
-Maybe the truth is somewhere in the middle.
+Maybe you think the truth is somewhere in the middle.
 I won't attempt to persuade you to take either position, 
 but instead I’ll offer some true facts from the hiring trenches.
 
@@ -18,7 +18,7 @@ Most of these people work at big public companies.
 And most of them are not directors, and might be soon, at their current company.
 
 The unfortunate truth is that a director title is not all champagne and roses. 
-There are some nice things about being a director at a big public company. 
+There are some nice things about being a director at a big company. 
 
 1. The title confers meaningful status at similar companies.
 2. You’ll get a raise and better bonus target.
