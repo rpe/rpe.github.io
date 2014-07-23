@@ -95,5 +95,5 @@ that feature on a rangefinder-style body.
 
 If you're upgrading from an X-series body older than the X-E2, or looking to jump into the mirrorless world, the X-T1 is compelling. Go for it!
 
-<a href="https://www.flickr.com/photos/41695401@N00/14342241588" title="DSCF3987.jpg by Rob Enns, on Flickr"><img src="https://farm6.staticflickr.com/5528/14342241588_283246e009_c.jpg" width="800" height="534" alt="DSCF3987.jpg"></a>
+<a href="https://www.flickr.com/photos/41695401@N00/14342241588" title="DSCF3987.jpg by Rob Enns, on Flickr"><img src="https://farm6.staticflickr.com/5528/14342241588_67298495bc_c.jpg" width="800" height="534" alt="DSCF3987.jpg"></a>
 <small><small>Fujifilm X-E2, Fujinon XF 10-24mm F4 R OIS, 24mm, ISO 400, f/4, 1/170 sec</small></small><br />
