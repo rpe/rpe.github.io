@@ -13,7 +13,7 @@ A "go bag" is a pre-packed backpack full of survival essentials
 that one might need at a moment's notice. The more nuanced survivalist will
 differentiate between the "get home bag", which is intended to get you
 from your automobile or place of work back home in case of emergency, 
-and the true "go bag", a larger set of backpackable gear that will
+and the "bug out bag", a larger set of backpackable gear that will
 keep you alive when you abandon your residence and strike out for the 
 plague-free zone.
 
@@ -31,7 +31,7 @@ most of which originate with an escaped weaponized virus. But don't discount
 the alien zombie invasion or the supernatural. No matter what the cause,
 if zombies roam the earth, you're going to need a go bag.
 
-4. GAS (Gear Acquisition Syndrome). You're an OCD gear nerd and you need 
+4. GAS (Gear Acquisition Syndrome). You need 
 a reason to buy some cool stuff.
 
 I put a go bag together earlier this year.
@@ -78,10 +78,16 @@ See above. For starting a fire in less than urgent conditions.
 
 **Lighter**. A Bic butane lighter is the "good enough" standard. Assuming you have decent matches and a fire starting kit as backstops, the Bic is fine.
 
-**Water Bottle**. I pack two containers: a [Nalgene Titan](http://www.amazon.com/gp/product/B002PLU912/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B002PLU912&linkCode=as2&tag=myhomepag01ba-20) (a rigid 1L bottle) and a [Platypus Platy](http://www.amazon.com/gp/product/B000J2KEGY/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B000J2KEGY&linkCode=as2&tag=myhomepag01ba-20) (a collapsable 2L container).
+**Water Bottle**. I pack two containers: a [Nalgene Tritan](http://www.amazon.com/gp/product/B002PLU912/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B002PLU912&linkCode=as2&tag=myhomepag01ba-20) (a rigid 1L bottle) and a [Platypus Platy](http://www.amazon.com/gp/product/B000J2KEGY/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B000J2KEGY&linkCode=as2&tag=myhomepag01ba-20) (a collapsable 2L container).
+
+**Water Treatment**. Pack some [water purification tablets](http://www.amazon.com/gp/product/B001949TKS/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B001949TKS&linkCode=as2&tag=myhomepag01ba-20). 
+They won't filter out particulates or make the water taste better, 
+but they will keep you from getting sick.
+
+**Water Filtration**. The [MSR MiniWorks EX Microfilter](http://www.amazon.com/gp/product/B000BBF2RY/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B000BBF2RY&linkCode=as2&tag=myhomepag01ba-20) will not only clean up your water supply, but it will filter out protozoa and bacteria such as giardia. This filter isn't light, but for longer term use it's preferable to iodine tablets.
 
 **Utility Cord**. [Bluewater 3mm Niteline](http://www.amazon.com/gp/product/B0038R4QQQ/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0038R4QQQ&linkCode=as2&tag=myhomepag01ba-20).
-Clothes lines, bear bags, zombie restraint, and so on. 
+Clothes lines, hanging bear bags, zombie restraint, and so on. 
 I always feel better having enough rope. 
 Niteline reflects light for better visibility.
 
@@ -95,9 +101,9 @@ favorite Swiss Army knife.
 
 **Food**. [S.O.S. Rations Emergency Food Bar](http://www.amazon.com/gp/product/B004MF41LI/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B004MF41LI&linkCode=as2&tag=myhomepag01ba-20). When they get close to the 5-year expiration date, I'll bust out these rations for a family survival taste test. I wonder how they work in the sous-vide machine? A few energy bars such as [Clif Bars](http://www.amazon.com/gp/product/B004X1SSDS/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B004X1SSDS&linkCode=as2&tag=myhomepag01ba-20) will add variety to the high-calorie rations.
 
-**Note Pad**. I like [Field Notes](http://www.fieldnotesbrand.com) notebooks. Their regular notebooks are made of normal paper. But the [expedition edition](http://fieldnotesbrand.com/colors/expedition/) uses some sort of magical indestructible synthetic paper. Perfect for the aftertimes.
+**Note Pad**. I like [Field Notes](http://www.fieldnotesbrand.com) notebooks. Their regular notebooks are made of normal paper. But the [expedition edition](http://www.amazon.com/gp/product/B00AQO8Q88/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00AQO8Q88&linkCode=as2&tag=myhomepag01ba-20) uses some sort of magical indestructible synthetic paper. Perfect for the aftertimes.
 
-**Pen**. The [Zebra Sarasa 1.0mm Gel](http://www.amazon.com/gp/product/B0006HXC3E/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0006HXC3E&linkCode=as2&tag=myhomepag01ba-20) is a fine choice. If you're worried about upside down conditions, pack a [space pen](http://www.amazon.com/gp/product/B000WGD13U/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B000WGD13U&linkCode=as2&tag=myhomepag01ba-20) instead.
+**Pen**. The [Zebra Sarasa 1.0mm Gel](http://www.amazon.com/gp/product/B0006HXC3E/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0006HXC3E&linkCode=as2&tag=myhomepag01ba-20) is a fine choice. If you're worried about upside down conditions, pack a [space pen](http://www.amazon.com/gp/product/B001E103CY/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B001E103CY&linkCode=as2&tag=myhomepag01ba-20) instead.
 
 **Pencils**. I really like the [Palomino California Cedar Pencils](http://www.amazon.com/gp/product/B00G064FF4/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00G064FF4&linkCode=as2&tag=myhomepag01ba-20). They're made in the USA and they smell awesome. That will come in handy as your hair falls out due to radiation poisoning.
 
@@ -130,8 +136,12 @@ A rip-stop nylon poncho is very versatile. Together with utility cord
 it can be used to build a shelter. It will work as a ground
 cloth or picnic blanket. And it will keep you and your gear dry(ish) in a storm.
 
-If you live in an area where very cold weather is a possibility, pack enough gear to get you through some outdoor travel in cold weather. Heavy gloves, a hat, and warm socks are the minimum.
+If you live in an area where very cold weather is a possibility, pack enough gear to get you through some outdoor travel. Heavy gloves, a hat, and warm socks are the minimum.
+
+One more thing: pack some tampons. Besides the obvious, tampons are useful as bandages and for straining chunky bits out of your water supply.
 
 Hopefully all this preparedness (ie. buying stuff) ends up nothing more than a 
 bunch of gear carefully packed in my trunk for the next 20 years. 
-If I need it, I'll be very glad its there.
+But when the zombies come, I'm ready.
+
+Here is [a list of go bag contents](http://www.amazon.com/The-Go-Bag/lm/R15S5UTPB5H8S1/ref=cm_lm_byauthor_title_full) on Amazon.
