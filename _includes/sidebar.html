@@ -28,9 +28,29 @@
     <a class="sidebar-nav-item" href="{{ site.github.repo }}">GitHub project</a>
   </nav>
 
+
+ <div class="sidebar-item">
+
+    <a href="{{ site.github.url }}">
+      <span class="icon github">
+		{% include github-svg.html %}
+      </span>
+      <span class="username">{{ site.github.user }}</span>
+    </a>
+
+    <br />
+    <a href="{{ site.twitter.url }}">
+      <span class="icon twitter">
+		{% include twitter-svg.html %}
+      </span>
+      <span class="username">{{ site.twitter.user }}</span>
+    </a>
+
+  </div>
+
   <div class="sidebar-item">
     <p>
-      &copy; {{ site.time | date: '%Y' }}. All rights reserved.
+      &copy; {{ site.time | date: '%Y' }}.&nbsp All rights reserved.
     </p>
   </div>
 </div>

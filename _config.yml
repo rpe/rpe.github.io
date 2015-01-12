@@ -14,7 +14,7 @@ tagline:             'Mostly Bacon'
 description:         ''
 url:                 http://rpe.me
 baseurl:             /
-paginate:            5
+paginate:            3
 
 # About/contact
 author:
@@ -22,5 +22,12 @@ author:
   url:               https://twitter.com/barque
 
 # Custom vars
+
 github:
+  user:           rpe
+  url:            https://github.com/rpe
   repo:           https://github.com/rpe/rpe.github.io
+
+twitter:
+  user:           barque
+  url:            https://twitter.com/barque
