@@ -1,27 +1,27 @@
-name: Rob's Blog
-markdown: redcarpet
-pygments: true
+# Dependencies
+markdown:            redcarpet
+highlighter:         pygments
 
-redcarpet:
-  extensions: [smart]
-  
 # Permalinks
-permalink:        pretty
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+relative_permalinks: true
 
 # Setup
-title:            'Rob Enns'
-tagline:          'Mostly Bacon'
-description:      ''
-url:              http://rpe.me
+title:               'Rob Enns'
+tagline:             'Mostly Bacon'
+description:         ''
+url:                 http://rpe.me
+baseurl:             /
+paginate:            5
 
+# About/contact
 author:
-  name:           'Rob Enns'
-  url:            https://twitter.com/barque
-
-paginate:         1
+  name:              Rob Enns
+  url:               https://twitter.com/barque
+  email:             rob.enns@gmail.com
 
 # Custom vars
-version:          1.0.0
-
 github:
   repo:           https://github.com/rpe/rpe.github.io
