@@ -18,9 +18,8 @@ paginate:            5
 
 # About/contact
 author:
-  name:              Rob Enns
+  name:              'Rob Enns'
   url:               https://twitter.com/barque
-  email:             rob.enns@gmail.com
 
 # Custom vars
 github:
