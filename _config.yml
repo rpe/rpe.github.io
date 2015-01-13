@@ -11,7 +11,7 @@ relative_permalinks: true
 # Setup
 title:               'Rob Enns'
 tagline:             'Mostly Bacon'
-description:         'Coffee, cameras and bacon. But mostly bacon.'
+description:         'Coffee, cameras and bacon. Mostly bacon.'
 url:                 http://rpe.me
 baseurl:             /
 paginate:            3
