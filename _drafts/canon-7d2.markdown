@@ -119,7 +119,9 @@ will yield outstanding long shots of the opposite end of the field.
 
 ### Conclusion
 
-Canon's 7D Mark II is a great camera, but it's not for everyone. Landscape shooters will prefer
+Canon's 7D Mark II is a great camera. The upgrades to the autofocus system and its
+continuous shooting speed make it a tremendous tool for sports photography.
+That said, it's not for everyone. Landscape shooters may prefer
 full-frame options like the 6D or 5D Mark III. For sports, though, it is no contest.
 The 7D Mark II rocks.
 
