@@ -21,7 +21,7 @@ The X-T1 has been
 [elsewhere](http://www.dpreview.com/reviews/fujifilm-x-t1), 
 so I'll note only a few impressions after a weekend in the mountains.
 
-<a href="https://www.flickr.com/photos/41695401@N00/14342360657" title="DSCF7977.jpg by Rob Enns, on Flickr"><img src="https://farm3.staticflickr.com/2904/14342360657_eed2a25ed5_c.jpg" width="800" height="534" alt="DSCF7977.jpg"></a>
+<a href="https://www.flickr.com/photos/41695401@N00/14342360657" title="DSCF7977.jpg by Rob Enns, on Flickr"><img src="https://farm3.staticflickr.com/2904/14342360657_192117dc28_c.jpg" width="800" height="534" alt="DSCF7977.jpg"></a>
 <small><small>Fujifilm X-T1, Fujinon XF 10-24mm F4 R OIS, 10mm, ISO 800, f/7.1, 1/1000 sec</small></small><br />
 
 **Auto Focus**
