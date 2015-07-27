@@ -1,0 +1,86 @@
+---
+layout: post
+title:  "Go Bag 2015"
+categories: stuff
+---
+Somewhere a survivalist has documented a key aspect of go-baggery in his Go Bag Manifesto. It goes something like this: *don't lose your go bag*. Perhaps it is The Go Baggers Creed ("This is my go bag. There are many like it, but this one is mine.").
+
+It might not even be that obscure of a principle. It seems pretty basic. If you have something prepared for an emergency situation, best not lose it before the emergency even arises.
+
+What I'm trying to say is, I lost [my go bag](http://www.rpe.me/stuff/2014/04/14/right-in-the-go-bag/). 
+
+Don't know how it happened, but somewhere in-between loading and unloading the car with multiple combinations of guitar gear, lacrosse gear, and camping gear, the bag got left behind. Maybe it was pinched in a moment I wasn't looking. Who knows? After double and triple checking cars, closets, and garages, I had to admit that my precious go bag was gone. For good.
+
+Following a suitable period of grieving, I decided to put together another go bag.
+
+It's substantially similar to the [last go bag](http://www.rpe.me/stuff/2014/04/14/right-in-the-go-bag/), with less knives. I overdid it the first time, and I'm really pissed that I lost those fantastic knives. In this version there is a dedicated knife and one in the multi-tool.
+
+Here are the components of go bag 2015:
+
+<a href="http://imgur.com/CixvPpu"><img width="600" src="http://i.imgur.com/CixvPpu.jpg" title="source: imgur.com" /></a>
+
+* (Go) Bag: [5.11 Tactical Series Rush 12](http://www.amazon.com/gp/product/B003HHV0QQ/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B003HHV0QQ&linkCode=as2&tag=myhomepag01ba-20)
+
+<a href="http://imgur.com/msJbrgP"><img width="300" src="http://i.imgur.com/msJbrgP.jpg" title="source: imgur.com" /></a>
+
+* [Suunto A-30L](http://www.amazon.com/gp/product/B000FEXZH6/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B000FEXZH6&linkCode=as2&tag=myhomepag01ba-20&linkId=ELPMQPUKXEZXMNR2) compass
+
+<a href="http://imgur.com/9Kf6tq9"><img src="http://i.imgur.com/9Kf6tq9.jpg" title="source: imgur.com" /></a>
+Hydration:
+
+* [Vapur 1.0L Element Bottle](http://www.amazon.com/gp/product/B008VEU7P0/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B008VEU7P0&linkCode=as2&tag=myhomepag01ba-20&linkId=J76TJTKAW7LRVZMD)
+* [Platypus 2.0L Platy Bottle](http://www.amazon.com/gp/product/B000J2KEGY/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B000J2KEGY&linkCode=as2&tag=myhomepag01ba-20&linkId=DLXBONK2SKGL4HXF)
+* [Potable Aqua Water Treatment Tablets](http://www.amazon.com/gp/product/B001949TKS/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B001949TKS&linkCode=as2&tag=myhomepag01ba-20&linkId=OGYKMECWN6IYZBN6)
+
+<a href="http://imgur.com/8BQ3YXB"><img src="http://i.imgur.com/8BQ3YXB.jpg" title="source: imgur.com" /></a>
+Shelter:
+
+* [Adventure Medical Kits Sol Survival Blankets](http://www.amazon.com/gp/product/B001MW31XS/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B001MW31XS&linkCode=as2&tag=myhomepag01ba-20&linkId=CCKYRPTKFPBETWKE)
+* [All Weather Space Blanket](http://www.amazon.com/gp/product/B0045DXWYY/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0045DXWYY&linkCode=as2&tag=myhomepag01ba-20&linkId=FJTUOIZPBW3SDTII)
+* [Rip-stop Nylon Rain Poncho](http://www.amazon.com/gp/product/B000HYRNSQ/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B000HYRNSQ&linkCode=as2&tag=myhomepag01ba-20&linkId=W7N7XCDLEKOPV4DN)
+
+<a href="http://imgur.com/PJ3AULU"><img width="400" src="http://i.imgur.com/PJ3AULU.jpg" title="source: imgur.com" /></a>
+Tools:
+
+* [TOAKS Titanium Spork](http://www.amazon.com/gp/product/B009AO19MK/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B009AO19MK&linkCode=as2&tag=myhomepag01ba-20&linkId=AE34QXOV5ENMBBOG)
+* [Chainmate CM-24SSP 24-Inch Survival Pocket Chain Saw](http://www.amazon.com/gp/product/B00L59Q9DW/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00L59Q9DW&linkCode=as2&tag=myhomepag01ba-20&linkId=TBEWSS5UZMGDXYAB)
+* [Spyderco Sage](http://www.amazon.com/gp/product/B0013AW8Y2/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0013AW8Y2&linkCode=as2&tag=myhomepag01ba-20)
+* [Leatherman New Wave](http://www.amazon.com/gp/product/B0002H49BC/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0002H49BC&linkCode=as2&tag=myhomepag01ba-20)
+* [NiteCore MH2C 800 Lumen Flashlight](http://www.amazon.com/gp/product/B00JJ99GGC/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00JJ99GGC&linkCode=as2&tag=myhomepag01ba-20&linkId=OCZA7VIFYJBVME2S)
+
+<a href="http://imgur.com/25pIRmr"><img width="400" src="http://i.imgur.com/25pIRmr.jpg" title="source: imgur.com" /></a>
+Food and medical:
+
+* [Small 100 Item First Aid Kit](http://www.amazon.com/gp/product/B00LPQUWPG/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00LPQUWPG&linkCode=as2&tag=myhomepag01ba-20&linkId=VAPURJ6MLA7J25T2)
+* [S.O.S. Rations Emergency Food Bar](http://www.amazon.com/gp/product/B004MF41LI/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B004MF41LI&linkCode=as2&tag=myhomepag01ba-20)
+
+<a href="http://imgur.com/QbHeas9"><img width="400" src="http://i.imgur.com/QbHeas9.jpg" title="source: imgur.com" /></a>
+Heat:
+
+* [Stormproof Match Container](http://www.amazon.com/gp/product/B00773VVHO/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00773VVHO&linkCode=as2&tag=myhomepag01ba-20)
+* [Live Fire Sport](http://www.amazon.com/gp/product/B00IIP60QC/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00IIP60QC&linkCode=as2&tag=myhomepag01ba-20&linkId=NYAIMAULIEGJWN6Q) fire starter
+* [Fast Fire Tinder](http://www.amazon.com/gp/product/B004XXVJU0/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B004XXVJU0&linkCode=as2&tag=myhomepag01ba-20&linkId=H6CMZY76Z75NV7ZB)
+
+<a href="http://imgur.com/UVa2iWg"><img width="400" src="http://i.imgur.com/UVa2iWg.jpg" title="source: imgur.com" /></a>
+Poetry:
+
+* [Field Notes Expedition Edition](http://www.amazon.com/gp/product/B00AQO8Q88/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00AQO8Q88&linkCode=as2&tag=myhomepag01ba-20) 
+* [Aloksak](http://www.amazon.com/gp/product/B000BT80U2/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B000BT80U2&linkCode=as2&tag=myhomepag01ba-20) waterproof bag
+* [Zebra Sarasa 1.0mm Gel](http://www.amazon.com/gp/product/B0006HXC3E/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0006HXC3E&linkCode=as2&tag=myhomepag01ba-20) 
+* [Palomino California Cedar Pencil](http://www.amazon.com/gp/product/B00G064FF4/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00G064FF4&linkCode=as2&tag=myhomepag01ba-20)
+
+
+<a href="http://imgur.com/VWRExgB"><img src="http://i.imgur.com/VWRExgB.jpg" title="source: imgur.com" /></a>
+Technology:
+
+* [Waka Waka  Power](http://www.amazon.com/gp/product/B00CAVM8DE/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00CAVM8DE&linkCode=as2&tag=myhomepag01ba-20) solar charger and light. 
+* Lightning Cable for iPhone/iPad charging. I usually buy cables from [monoprice.com](http://www.monoprice.com).
+
+<a href="http://imgur.com/t0V9fRr"><img width="600" src="http://i.imgur.com/t0V9fRr.jpg" title="source: imgur.com" /></a>
+Other:
+
+* [CLC work gloves](http://www.amazon.com/gp/product/B0002YPZLI/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0002YPZLI&linkCode=as2&tag=myhomepag01ba-20)
+* [USA Flag Patch](http://www.amazon.com/gp/product/B0077DCOWU/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0077DCOWU&linkCode=as2&tag=myhomepag01ba-20&linkId=M7RQE3QDRJDC7DKF) for the backpack
+
+And that's it. I'll toss in [some Altoids](http://www.amazon.com/gp/product/B001QWEL1U/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B001QWEL1U&linkCode=as2&tag=myhomepag01ba-20), and try not to lose this bag!
+
