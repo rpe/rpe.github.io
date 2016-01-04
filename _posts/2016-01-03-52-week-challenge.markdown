@@ -16,3 +16,8 @@ I decided to use manual focus, which was a bit of a pain to get just right. Whil
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/41695401@N00/24158587585/in/dateposted-public/" title="20160103-125755-rpe-0037.jpg"><img src="https://farm2.staticflickr.com/1554/24158587585_3427548104_c.jpg" width="800" height="534" alt="20160103-125755-rpe-0037.jpg"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 <small><small>Natural light because flash trigger died. Fully selfie.</small></small>
+
+Today's lessons are:
+
+1. Bring a spare battery for everything.
+2. WiFi is cool.
