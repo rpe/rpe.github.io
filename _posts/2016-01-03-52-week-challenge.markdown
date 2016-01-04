@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "52 Week Photography Challenge"
-categories: stuff
+categories: photography
 ---
 Over the holidays I decided to take up the [Dogwood 52 Week Photography Challenge](http://dogwood.photography/52weekchallenge.html), taking on a new assignment each week this year. A few of my friends are coming along for the ride, and we hope to keep each other challenged and motivated to improve our photography throughout the year.
 
