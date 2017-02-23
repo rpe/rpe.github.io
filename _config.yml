@@ -2,8 +2,9 @@
 highlighter:         rouge
 
 # Permalinks
-#
 permalink:           pretty
+
+gems: [jekyll-paginate]
 
 # Setup
 title:               'Rob Enns'
