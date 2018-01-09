@@ -3,6 +3,7 @@ highlighter:         rouge
 
 # Permalinks
 permalink:           pretty
+#relative_permalinks: true
 
 gems: [jekyll-paginate]
 
@@ -11,7 +12,7 @@ title:               'Rob Enns'
 tagline:             'Mostly Bacon'
 description:         'Coffee, bikes, cameras and bacon. Mostly bacon.'
 url:                 http://rpe.me
-baseurl:             /
+baseurl:             ''
 paginate:            3
 
 # About/contact
