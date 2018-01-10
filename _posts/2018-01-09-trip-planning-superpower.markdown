@@ -5,7 +5,7 @@ categories: photography
 ---
 The rise of mobile computing, the app ecosystem, and widely available public data sets has given landscape photographers a new superpower: detailed and precise trip planning from the comfort of your iPad. From virtual location scouting to route planning to reserving accommodations, today’s app ecosystem has you covered. This article covers the three applications I use to plan photography trips, and also mentions a few ancillary apps that round out the planning experience.
 
-While this discussion is focused on iPad and iOS, all three of the key applications discussed are also available on Android devices.
+While this discussion is focused on iPad and iOS, all three key applications mentioned are also available on Android devices.
 
 ## Gaia GPS
 
@@ -35,7 +35,7 @@ Photo Pills also includes a number of useful photographic calculators, so you ca
 
 To help find places to shoot, Photo Pills has a searchable database of over 10,000 points of interest (POIs), and will also save POIs that you identify. A saved POI can be shared into Apple Maps, making it straightforward to research driving directions and times to your planned location.
 
-This short description really doesn’t do justice to the wide variety of useful features in Photo Pills. It really is a must-have app. [Photo Pills](https://itunes.apple.com/us/app/photopills/id596026805?mt=8) is $10 on the App Store.
+This short description doesn’t do justice to the wide variety of useful features in Photo Pills. It really is a must-have app. [Photo Pills](https://itunes.apple.com/us/app/photopills/id596026805?mt=8) is $10 on the App Store.
 
 <a href="https://itunes.apple.com/us/app/photopills/id596026805?mt=8"><img src="https://i.imgur.com/2ZRPyOE.jpg" title="Photo Pills" /></a>
 
