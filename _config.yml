@@ -10,7 +10,7 @@ gems: [jekyll-paginate]
 # Setup
 title:               'Rob Enns'
 tagline:             'Mostly Bacon'
-description:         'Coffee, bikes, cameras and bacon. Mostly bacon.'
+description:         'Coffee, bikes, cameras, and bacon. Mostly bacon.'
 url:                 http://rpe.me
 baseurl:             ''
 paginate:            3
